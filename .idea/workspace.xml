@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427b59da-91a6-40c6-9236-c21e14cbcfb8" name="Changes" comment="Lab 1 - Python review">
+    <list default="true" id="427b59da-91a6-40c6-9236-c21e14cbcfb8" name="Changes" comment="Lab 1 - Python review improvement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -66,7 +67,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,6 +90,8 @@
       <workItem from="1725571036128" duration="2198000" />
       <workItem from="1725970533909" duration="403000" />
       <workItem from="1725970971774" duration="55000" />
+      <workItem from="1725971056081" duration="686000" />
+      <workItem from="1725971774497" duration="258000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 1 - Python review">
       <option name="closed" value="true" />
@@ -106,7 +109,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725573216636</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab 1 - Python review improvement">
+      <option name="closed" value="true" />
+      <created>1725971290377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725971290377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab 1 - Python review improvement">
+      <option name="closed" value="true" />
+      <created>1725971410140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725971410140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab 1 - Python review" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 1 - Python review" />
+    <MESSAGE value="Lab 1 - Python review improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 1 - Python review improvement" />
   </component>
 </project>
